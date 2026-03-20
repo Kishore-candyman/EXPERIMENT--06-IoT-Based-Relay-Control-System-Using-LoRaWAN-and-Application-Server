@@ -1,5 +1,5 @@
 # EXPERIMENT--06-IoT-Based-Relay-Control-System-Using-LoRaWAN-and-Application-Server
-## NAME: KISHORE m
+## NAME: KISHORE M
 ## REG. NO.: 212224040161
 
 ## Aim
